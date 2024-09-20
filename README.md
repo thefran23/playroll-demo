@@ -21,5 +21,7 @@ I have tried to be as restrictive as possible with the type definitions for this
 ## How to run tests
 
 I have included a suit of unit tests with my submission.
+
 To install dependencies run `npm install`
+
 Tests can be executed by running the command `npm test`
